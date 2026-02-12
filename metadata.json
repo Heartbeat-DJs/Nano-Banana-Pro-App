@@ -1,0 +1,7 @@
+{
+  "name": "Antigravity Nano Banana Assistant",
+  "description": "A high-end image generation application featuring Google's Antigravity UI aesthetic, powered by the Nano Banana (Gemini) image models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
